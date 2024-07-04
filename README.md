@@ -1,2 +1,2 @@
 # Java-OOP
-Contains Java-OOP Packages
+This repo contains Java-OOP Packages
