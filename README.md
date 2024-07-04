@@ -1,2 +1,2 @@
 # Java-OOP
-This repo contains Java-OOP Packages
+This repo contains my Java-OOP packages fom SoftUni
