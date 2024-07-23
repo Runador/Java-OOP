@@ -1,4 +1,4 @@
-package randomarraylist;
+package labinheritance.randomarraylist;
 
 import java.util.ArrayList;
 import java.util.Random;
