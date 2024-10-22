@@ -1,4 +1,4 @@
-package labEncapsulation.lab.sortbynameandage;
+package labencapsulation.lab.sortbynameandage;
 
 import java.io.BufferedReader;
 import java.io.IOException;

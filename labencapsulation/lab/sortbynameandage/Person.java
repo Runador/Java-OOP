@@ -1,4 +1,4 @@
-package labEncapsulation.lab.sortbynameandage;
+package labencapsulation.lab.sortbynameandage;
 
 public class Person {
 

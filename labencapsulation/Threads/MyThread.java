@@ -1,4 +1,4 @@
-package labEncapsulation.Threads;
+package labencapsulation.Threads;
 
 public class MyThread extends Thread {
 
